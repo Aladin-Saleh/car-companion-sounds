@@ -1,1 +1,22 @@
-
+{
+	"version": 1,
+	"updated": "2026-10-05",
+	"sounds": [
+		{
+			"id": "welcome_to_bolero",
+			"name": "Welcome to Bolero",
+			"category": "Accueil",
+			"url": "https://cdn.jsdelivr.net/gh/Aladin-Saleh/car-companion-sounds@main/sounds/welcome_to_Bolero.mp3",
+			"duration": 8.59425,
+			"sizeBytes": 154446
+		},
+		{
+			"id": "welcome_to_the_swift",
+			"name": "Welcome to the Swift",
+			"category": "Accueil",
+			"url": "https://cdn.jsdelivr.net/gh/Aladin-Saleh/car-companion-sounds@main/sounds/welcome_to_the_swift.mp3",
+			"duration": 3.866063,
+			"sizeBytes": 78795
+		}
+	]
+}
